@@ -1,0 +1,7 @@
+#Sun Jul 30 11:21:02 IST 2017
+base.0=/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4be4867ed40afc9cdb65eb928cef750aaf800d81
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_00ba080767b8b587eb082f6e87d8f4cc6944fc6b/classes.dex
+base.1=/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_00ba080767b8b587eb082f6e87d8f4cc6944fc6b
+file.0=/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4be4867ed40afc9cdb65eb928cef750aaf800d81/classes.dex

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_806de31bd9588224fd3b73ade35b67232478aedd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/96770b6222ba2ce0b8c6dce57fc7b87dc9e39585/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e61ac836d66709beea188a89197b032699003bc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/002fccba0751f90e8c8346686e9d0f4944ae948f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_782915e906ab616884452d71c139f79703ca92a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/2e2289868501f0e23ce7389fd4a352cf261949dc/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_aa3cc3e3038dde38daebf8f3ca2a6a021a8c8154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/bf78626b75a401a7b5587824c5410848b96765cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd86afe968deca9f621e7f6c2749e430af1d7a81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/ac14a12392014d0a88a8dbe27391da9297d55cbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e0e6dd688adf8ebaa3306e3b0abb638c3b509fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/96770b6222ba2ce0b8c6dce57fc7b87dc9e39585/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63ee191582c73f1afa91f3e0f8315d1c2d0ece41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/407f85dc8be9f66f1bb055572c13380c91b5bca6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7b27724064e8c566ead62424255a4f6f0cdc6c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/29e1bd189cf1449634128e0d8c753785318eeeea/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_09404c1c21a688438479918864cfacfc76e54bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/bf78626b75a401a7b5587824c5410848b96765cc/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_19373116986ff336b67c12a6fce21be7c4b1ef3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/Downloads/Element/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a897b09d6da995835e60e2700e588810c1aee6c">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_00ba080767b8b587eb082f6e87d8f4cc6944fc6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/7e31b6c616dc94619b378e01b7fa41f490137032/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b3ab0bc8ae5705174371b8d10aa6047a9ee4a28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_88e20d9cb6d4edbc2540c346f6ac0c116d600043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/407f85dc8be9f66f1bb055572c13380c91b5bca6/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3d91993d699633409f75d61c00d99d054d06f06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/29e1bd189cf1449634128e0d8c753785318eeeea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a531af6344c286f1ad3f7fb622aae779d460167a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/Downloads/Element/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4be4867ed40afc9cdb65eb928cef750aaf800d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/.android/build-cache/2e2289868501f0e23ce7389fd4a352cf261949dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee62a30ef5ef47c25eeea932f5456d143eb96b78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gg/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/gg/Downloads/Element/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8e43e19f6780a020a3a061c76f604571b47ca462/classes.dex" />
+    </item>
+
+</items>

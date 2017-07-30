@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/gg/Downloads/Element/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/res/color/abc_tint_switch_thumb.xml"
+    }
+]

@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:10:5-47:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/gg/.android/build-cache/002fccba0751f90e8c8346686e9d0f4944ae948f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/gg/.android/build-cache/7e31b6c616dc94619b378e01b7fa41f490137032/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/gg/.android/build-cache/8b21798bebbc9fea5c47c7e242400e76a45e9bea/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/gg/.android/build-cache/1deaed2db0fc8b873e6e901ab43a850857a36d0c/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/gg/.android/build-cache/57ff154379c44a3232d7e315a9724645bdf256df/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.1] /home/gg/.android/build-cache/ac14a12392014d0a88a8dbe27391da9297d55cbd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/gg/.android/build-cache/407f85dc8be9f66f1bb055572c13380c91b5bca6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/gg/.android/build-cache/bf78626b75a401a7b5587824c5410848b96765cc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/gg/.android/build-cache/96770b6222ba2ce0b8c6dce57fc7b87dc9e39585/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/gg/.android/build-cache/29e1bd189cf1449634128e0d8c753785318eeeea/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/gg/.android/build-cache/2e2289868501f0e23ce7389fd4a352cf261949dc/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:15:9-37
+	android:supportsRtl
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:17:9-59
+meta-data#com.google.android.gms.version
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/gg/.android/build-cache/57ff154379c44a3232d7e315a9724645bdf256df/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:25:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:35:13-41
+activity#com.google.android.gms.samples.vision.ocrreader.DictionaryActivity
+ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:45:13-62
+	android:name
+		ADDED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml:44:13-47
+uses-sdk
+INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/gg/.android/build-cache/002fccba0751f90e8c8346686e9d0f4944ae948f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/gg/.android/build-cache/7e31b6c616dc94619b378e01b7fa41f490137032/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /home/gg/.android/build-cache/8b21798bebbc9fea5c47c7e242400e76a45e9bea/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/gg/.android/build-cache/1deaed2db0fc8b873e6e901ab43a850857a36d0c/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/gg/.android/build-cache/57ff154379c44a3232d7e315a9724645bdf256df/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.1] /home/gg/.android/build-cache/ac14a12392014d0a88a8dbe27391da9297d55cbd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/gg/.android/build-cache/407f85dc8be9f66f1bb055572c13380c91b5bca6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/gg/.android/build-cache/bf78626b75a401a7b5587824c5410848b96765cc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/gg/.android/build-cache/96770b6222ba2ce0b8c6dce57fc7b87dc9e39585/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/gg/.android/build-cache/29e1bd189cf1449634128e0d8c753785318eeeea/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/gg/.android/build-cache/2e2289868501f0e23ce7389fd4a352cf261949dc/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/gg/.android/build-cache/b764e28ead75c5726b174a4cacf726fb6dec444f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gg/Downloads/Element/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/gg/.android/build-cache/1ab496e1dac817267a3641fd17c4d6f74e92131b/output/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/gg/.android/build-cache/048fcbf759495966969d4e3accbe4f9561d9e5cb/output/AndroidManifest.xml:9:13-58
